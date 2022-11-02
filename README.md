@@ -6,9 +6,15 @@
 ##### Fifth level Heading H5 title
 ###### Sexth level Heading H6 title
 
-## Unorder list:
+## Unordered list:
 - Ahmad
 - Abed
 - Amneh
 * Mohammed
 * Rahaf
+
+## Ordered list:
+1. Open [Github](WWW.Github.com)
+2. Click new button
+3. Fill the info
+4. Add a README file

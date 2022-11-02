@@ -17,6 +17,11 @@
 1. Open [Github](https://github.com)
 2. Click new button
 3. Fill the info
-4. Add a README file
+4. Add a **README** file
 
 ![Github image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+**Bold**
+*Italic*
+***Bold and Italic***

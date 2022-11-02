@@ -25,3 +25,5 @@
 **Bold**
 *Italic*
 ***Bold and Italic***
+
+markdown emoji cheat sheet [Emoji](https://gist.github.com/rxaviers/7360908)

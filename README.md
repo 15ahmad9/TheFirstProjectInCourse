@@ -12,6 +12,7 @@
 - Amneh
 * Mohammed
 * Rahaf
+* Farah
 
 ## Ordered list:
 1. Open [Github](https://github.com)

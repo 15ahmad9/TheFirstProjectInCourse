@@ -24,7 +24,9 @@
 
 
 **Bold**
+</br>
 *Italic*
+</br>
 ***Bold and Italic***
 
 
